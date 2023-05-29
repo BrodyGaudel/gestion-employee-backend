@@ -21,7 +21,7 @@ Bienvenue dans l'application de gestion des employées ! Cette application est c
 
 ## Technologies utilisées
 
-1. Java
+1. Java 17
 2. Spring Boot
 3. Maven
 4. MySQL
