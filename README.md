@@ -19,11 +19,20 @@ Bienvenue dans l'application de gestion des employées ! Cette application est c
 5. Compilez et exécutez l'application à l'aide de Maven. mvn spring-boot:run
 6. L'application sera accessible à l'URL suivante : http://localhost:8888/api. l'application étant protegée par Spring Security, retrouver l'application frontend développer avec Angular sur : https://github.com/BrodyGaudel/gestion-employee-frontend
 
+## Utilisateur par défault
+
+Par défault l'application génere deux utilisateurs:
+
+1. Utilisateur 1 (avec role ADMIN) : username: brody , mot de passe: admin
+2. Utilisateur 2 (avec role USER) : username: gaudel , mot de passe: user
+
+vous pouvez modifiez ces deux utilisateurs.
+
 ## Technologies utilisées
 
 1. Java 17
-2. Spring Boot
-3. Maven
+2. Spring Boot (3.0.7)
+3. Maven (3.9.2)
 4. MySQL
 
 ## Contributeurs
