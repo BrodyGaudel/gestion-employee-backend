@@ -17,7 +17,7 @@ Bienvenue dans l'application de gestion des employées ! Cette application est c
 3. Configuerer le fichier application.properties pour que l'application puisse se connecter à votre base de données MySQL
 4. Installez les dépendances nécessaires. avec la commande mvn clean install
 5. Compilez et exécutez l'application à l'aide de Maven. mvn spring-boot:run
-6. L'application sera accessible à l'URL suivante : http://localhost:8888/api. l'application étant protegée par Spring Security, retrouver l'application frontend développer avec Angular sur : https://github.com/BrodyGaudel/gestion-employee-frontend
+6. L'application sera accessible à l'URL suivante : http://localhost:8888/api. l'application est protegée par Spring Security, 
 
 ## Utilisateur par défault
 
